@@ -1,0 +1,11 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÎØç‡ûÿÿÿÿ8éœÑò’/
+>
+java:S1659"!Declare "min" on a separate line.(èö´€8éœÑò’/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œû¿Ø8éœÑò’/
+>
+java:S1659"!Declare "max" on a separate line.(èö´€8éœÑò’/
+A
+java:S1659"$Declare "linha2" on a separate line.(èö´€8éœÑò’/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(äöÆÉúÿÿÿÿ8éœÑò’/

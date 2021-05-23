@@ -1,0 +1,12 @@
+
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(Ù”©‡øÿÿÿÿ8áÌèí’/
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(Ýµ¨ëþÿÿÿÿ8“Ååì’/
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‚ˆâŠûÿÿÿÿ8³Â‡í’/
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(Ðž—Øþÿÿÿÿ8–¢çí’/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(œû¿Ø8ÌÒíí’/
+i
+java:S1871."LThis branch's code block is the same as the block for the branch on line 44.(¿îñï8ÍÊÃî’/
+>
+java:S1116C"Remove this empty statement.(Íü„¡ûÿÿÿÿ8µ×þí’/
